@@ -12,4 +12,6 @@ Angular-character-count
     
 ####  **Using directive**
 
-   <input class="form-control" type="text" placeholder="Type here" name="firstFormName" ng-model="first_name" ng-maxlength="50" char-count warning-count="10" danger-count="5">
+    <div>
+       <input class="form-control" type="text" placeholder="Type here" name="firstFormName" ng-model="first_name" ng-maxlength="50" char-count warning-count="10" danger-count="5" />
+    </div>
