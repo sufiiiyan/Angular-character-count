@@ -1,0 +1,6 @@
+{
+  "name": "Angular-character-count",
+  "tagline": "Angular-character-count",
+  "body": "# Angular-character-count\r\nAngular-character-count \r\nWorks well with ng-maxlength\r\n---------------------------------------------------\r\n\r\n#### **Add in your file**\r\n```\r\n<script src=\"angular-character-count.js\"></script>\r\n```\r\n####  **Add dependency in your module**\r\n\r\n    var app=angular.module(\"you app name\",['angular-character-count'])\r\n    \r\n####  **Using directive**\r\n\r\n    <div>\r\n       <input class=\"form-control\" type=\"text\" placeholder=\"Type here\" name=\"firstFormName\" ng-model=\"first_name\" ng-maxlength=\"50\" char-count warning-count=\"10\" danger-count=\"5\" />\r\n    </div>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
