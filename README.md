@@ -6,6 +6,7 @@ Works well with ng-maxlength
 #### **Add in your file**
 ```
 <script src="angular-character-count.js"></script>
+<script src="angular-character-count.css"></script>
 ```
 ####  **Add dependency in your module**
 
