@@ -1,0 +1,11 @@
+/* Put your css in here */
+
+.normalCharacter{
+    color: #6D6B6B;
+}
+.warningCharacter{
+    color: #eea236;
+}
+.dangerCharacter{
+    color: #E21A34;
+}
