@@ -1,4 +1,4 @@
-# Angular-character-count
+# Angular character count
 Angular-character-count  [Demo](http://sufiiiyan.github.io/Angular-character-count/ ) 
 Works well with ng-maxlength
 ---------------------------------------------------
