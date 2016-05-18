@@ -23,11 +23,11 @@ Works well with ng-maxlength
 
 ## License
 
- Use this guide. Attributions are appreciated._
+ Use this guide. Attributions are appreciated.
 
 ### Copyright
 
-Copyright (c) 2015-2016 [Sufiyan Momin]
+Copyright (c) 2015-2016 (Sufiyan Momin)
 
 ### (The MIT License)
 Permission is hereby granted, free of charge, to any person obtaining
