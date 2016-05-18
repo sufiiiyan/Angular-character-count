@@ -1,13 +1,17 @@
 {
-  "name": "Angular-character-count",
-  "main": "Angular-character-count.js",
-  "version": "0.0.0",
-  "homepage": "https://github.com/sufiiiyan/Angular-character-count",
-  "authors": [
+    "name": "Angular-character-count",
+    "main": "Angular-character-count.js",
+    "version": "0.0.0",
+    "homepage": "https://github.com/sufiiiyan/Angular-character-count",
+    "authors": [
     "Sufiyan Momin <sufiyan.telsource@gmail.com>"
   ],
-  "description": "Counting character in input box with warning and danger count",
-  "keywords": [
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sufiiiyan/Angular-character-count"
+    },
+    "description": "Counting character in input box with warning and danger count",
+    "keywords": [
     "Counter",
     "input",
     "character",
@@ -17,12 +21,10 @@
     "character count",
     "text"
   ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
+    "license": "MIT",
+    "ignore": [
+    "gh-pages",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
