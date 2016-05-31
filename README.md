@@ -1,4 +1,5 @@
-# Angular character count
+# Counting character in input box with warning and danger count
+
 Angular-character-count  [Demo](http://sufiiiyan.github.io/Angular-character-count/ ) 
 Works well with ng-maxlength
 ---------------------------------------------------
